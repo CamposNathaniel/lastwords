@@ -1,5 +1,6 @@
 body{
   background-color:black
+  
       
 }
 p{
@@ -26,7 +27,7 @@ img{
   color:white;
 }
 .quotes{
-  font-size:25px;
+  font-size: calc(0.75em + 1vmin);
   font-style:bold;
   font-family: 'Ubuntu Mono', monospace;
 }
