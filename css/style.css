@@ -25,13 +25,13 @@ img{
   color:white;
 }
 .quotes{
-  font-size:25px;
+  font-size:x-large;
   font-style:bold;
   font-family: 'Ubuntu Mono', monospace;
 }
 
 .author{
-  font-size:18px;
+  font-size:medium;
   font-style:italic;
 }
 .unit{
