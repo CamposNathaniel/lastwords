@@ -48,3 +48,16 @@ img{
 .btn{
     letter-spacing: .5px;
 }
+
+@media (min-width: 600px) {
+    .quotes {
+        font-size:1.25rem;
+    }
+}
+
+@media (min-width: 800px) {
+    .quotes {
+        font-size:2.5rem;
+        line-height: 1.5;
+    }
+}
