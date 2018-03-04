@@ -49,15 +49,3 @@ img{
 .btn{
     letter-spacing: .5px;
 }
-
-@media (min-width: 768)
-{
-       quotes
-       {
-           font-size: 15px; 
-       }
-       h1
-       {
-           font-size:24px;
-       }
-}
