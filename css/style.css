@@ -52,10 +52,14 @@ img{
     letter-spacing: .5px;
 }
 
-@media only screen and (max-width: 320px) {
-
-   body { 
-      font-size: 2em; 
-   }
-
+@media (min-width: 768)
+{
+       quotes
+       {
+           font-size: 15px; 
+       }
+       h1
+       {
+           font-size:24px;
+       }
 }
