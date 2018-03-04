@@ -1,0 +1,39 @@
+body{
+  background-color:black
+      
+}
+p{
+  color:white;
+  font-family: 'Fjalla One', sans-serif;
+  font-style:italic;
+  font-size:20px;
+}
+img{
+  padding:20px
+}
+
+.quotes{
+  background-color:#111111;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+.quotes{
+  font-size:25px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.author{
+  font-size:18px;
+  font-style:italic;
+}
+.unit{
+  font-size:12px;
+}
