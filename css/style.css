@@ -47,3 +47,6 @@ img{
 .divider{
     font-size:12px;
 }
+.btn{
+    letter-spacing: .5px;
+}
