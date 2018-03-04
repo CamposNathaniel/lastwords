@@ -20,7 +20,7 @@ $(document).ready(function(){
     $(".doe").text(randomDoe)
     
                      }
-  $(".btn").on("click", function(){
+  $(".btn").on("touchstart click", function(){
     getQuote();
   });
   
