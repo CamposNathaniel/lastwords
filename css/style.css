@@ -27,7 +27,8 @@ img{
 }
 .quotes{
   font-size:25px;
-  font-family: 'Roboto Mono', monospace;
+  font-style:bold;
+  font-family: 'Ubuntu Mono', monospace;
 }
 
 .author{
